@@ -1,0 +1,14 @@
+C:\Users\DIMON\source\repos\ftp\ftp\bin\Debug\net8.0\ftp.exe
+C:\Users\DIMON\source\repos\ftp\ftp\bin\Debug\net8.0\ftp.deps.json
+C:\Users\DIMON\source\repos\ftp\ftp\bin\Debug\net8.0\ftp.runtimeconfig.json
+C:\Users\DIMON\source\repos\ftp\ftp\bin\Debug\net8.0\ftp.dll
+C:\Users\DIMON\source\repos\ftp\ftp\bin\Debug\net8.0\ftp.pdb
+C:\Users\DIMON\source\repos\ftp\ftp\obj\Debug\net8.0\ftp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIMON\source\repos\ftp\ftp\obj\Debug\net8.0\ftp.AssemblyInfoInputs.cache
+C:\Users\DIMON\source\repos\ftp\ftp\obj\Debug\net8.0\ftp.AssemblyInfo.cs
+C:\Users\DIMON\source\repos\ftp\ftp\obj\Debug\net8.0\ftp.csproj.CoreCompileInputs.cache
+C:\Users\DIMON\source\repos\ftp\ftp\obj\Debug\net8.0\ftp.dll
+C:\Users\DIMON\source\repos\ftp\ftp\obj\Debug\net8.0\refint\ftp.dll
+C:\Users\DIMON\source\repos\ftp\ftp\obj\Debug\net8.0\ftp.pdb
+C:\Users\DIMON\source\repos\ftp\ftp\obj\Debug\net8.0\ftp.genruntimeconfig.cache
+C:\Users\DIMON\source\repos\ftp\ftp\obj\Debug\net8.0\ref\ftp.dll
